@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2900817-ee82-4dd5-b303-31fada93edf3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FXE9y62HVzsJDJhCdIJZPRKcMI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\sonik\js" />
+      <recent name="C:\sonik\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2900817-ee82-4dd5-b303-31fada93edf3" name="Changes" comment="" />
+      <created>1664629880611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664629880611</updated>
+      <workItem from="1664629881797" duration="5025000" />
+      <workItem from="1664635204330" duration="79000" />
+      <workItem from="1664688324392" duration="290000" />
+      <workItem from="1664779696986" duration="4828000" />
+      <workItem from="1664784577348" duration="10220000" />
+      <workItem from="1664800042158" duration="1946000" />
+      <workItem from="1664802400564" duration="4006000" />
+      <workItem from="1664902694249" duration="874000" />
+      <workItem from="1664955111440" duration="11880000" />
+      <workItem from="1664975188920" duration="2131000" />
+      <workItem from="1664977644710" duration="236000" />
+      <workItem from="1664977919288" duration="117000" />
+      <workItem from="1664978042614" duration="14000" />
+      <workItem from="1664978062455" duration="3000" />
+      <workItem from="1664978116481" duration="20000" />
+      <workItem from="1664978161084" duration="3000" />
+      <workItem from="1664978188138" duration="1033000" />
+      <workItem from="1665059212579" duration="63000" />
+      <workItem from="1665137606955" duration="3305000" />
+      <workItem from="1665155927490" duration="540000" />
+      <workItem from="1665159872409" duration="1705000" />
+      <workItem from="1665162894398" duration="37000" />
+      <workItem from="1665224103601" duration="5652000" />
+      <workItem from="1665234283290" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
